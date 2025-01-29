@@ -3,6 +3,10 @@
 
 # Bem-vindo ao meu portfólio de ciência de dados!
 
+<p align="center">
+  <img src="images/Black Modern Personal LinkedIn Banner (1).png"%>
+</p>
+
 
 Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e análise de dados. Este portfólio apresenta alguns dos meus projetos e experiências profissionais.
 
