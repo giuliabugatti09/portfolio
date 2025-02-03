@@ -94,5 +94,4 @@ Os alunos aprendem a desenvolver sistemas cognitivos, aplicar técnicas de apren
 - **Email**: giuliabugatti02@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/
 - **GitHub**: www.github.com/giuliabugatti09
-## Licença
-Este portfólio está licenciado sob a Licença MIT.
+
