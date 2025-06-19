@@ -16,59 +16,50 @@ Olá! Eu sou Giulia, uma profissional apaixonada por inteligência artificial e 
 - **Ferramentas**: GitHub, Google Colab, Google Sheets, Visual Studio Code
 
 ## Projetos
+# Portfólio - Giulia Bugatti
 
-### [**Sales Analysis Project: Análise de dados de vendas utilizando Python, SQL, e visualizações interativas. Geração automática de relatórios e envio por email incluídos**](https://github.com/giuliabugatti09/SalesAnalysisPro)
+Bem-vindo(a) ao meu portfólio de Ciência de Dados, Inteligência Artificial e Desenvolvimento de Software!  
+Aqui você encontra soluções envolvendo Machine Learning, análise exploratória, visualizações interativas e aplicações back-end focadas em performance e automação.
 
-- **Descrição:** Este projeto realiza uma análise de dados de vendas de uma empresa fictícia, utilizando consultas SQL para análise e visualizações em Python. O projeto também inclui a geração automática de relatórios em formato PDF e o envio por email.
-- **Tecnologias utilizadas:** Python, Pandas, Matplotlib & Seaborn, Ploty & Dash, SQLite
-- [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/SalesAnalysisPro)
-- Alguns resultados obtidos e validação do modelo;
-<p align="center">
-  <img width="65%" height="30%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel%20Interativo-%20%20Total_vendas_cliente.png?raw=true" alt="Painel Interativo - Total Vendas Cliente">
-</p>
-<p align="center">
-  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/SalesAnalysisPro/blob/main/images/Painel%20Interativo-%20Total_vendas_produto.png" alt="Painel Interativo - Total Vendas Produto">
-</p>
+## Projetos em destaque
+
+### [Sistemas-de-seguros--POC](https://github.com/giuliabugatti09/Sistemas-de-seguros--POC)
+Prova de Conceito (POC) de sistemas de seguros.  
+> _Descrição em construção. Mais detalhes técnicos e objetivos estarão disponíveis em breve._
+
+---
+
+### [Breast-Cancer-Prescription](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)
+Projeto para prescrição e análise de dados relacionados ao câncer de mama.  
+> _Descrição em construção. Mais detalhes sobre métodos, dados e resultados estarão disponíveis em breve._
+
+---
+
+### [Movie-Recommendation-System](https://github.com/giuliabugatti09/Movie-Recommendation-System)
+Esse projeto tem como objetivo desenvolver um sistema de recomendação de filmes ou livros baseado em diferentes abordagens, como:
+- Filtragem colaborativa
+- Filtragem baseada em conteúdo
+- Modelos híbridos
+
+---
+
+### [COVID19-Global-Analytics](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
+Análise global da evolução dos casos de COVID-19, correlacionando políticas públicas, como lockdowns e vacinação, com dados da Our World in Data.  
+O projeto utiliza Python para explorar padrões e impactos das medidas de controle durante a pandemia.
+
+---
+
+### [bank_credit_card_churn_predicition](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
+Predição de evasão de clientes de cartão de crédito bancário usando técnicas de machine learning.  
+> _Descrição em construção. Resultados, datasets e metodologias serão detalhados em breve._
+
+---
+
+### [sentiment-analysis-comments](https://github.com/giuliabugatti09/sentiment-analysis-comments)
+Projeto de análise de sentimentos em comentários utilizando processamento de linguagem natural (NLP) e machine learning.
 
 
-### [**Sentiment-analysis-comments: Projeto de análise de sentimentos em comentários utilizando NLP e machine learning**](https://github.com/giuliabugatti09/sentiment-analysis-comments)
-
-- **Descrição:** Este projeto tem como objetivo realizar análise de sentimentos em resenhas de filmes utilizando o algoritmo Naive Bayes. O modelo foi treinado com o dataset ImDb disponibilizado pelo NTLK, e classifica as resenhas como positivas ou negativas
-- **Tecnologias utilizadas:** Python, NTLK,  Scikit-Learn,  Pandas, Matplotlib & Seaborn, Ploty
-- [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/sentiment-analysis-comments)
-- Alguns resultados obtidos e validação do modelo;
-<p align="center"> 
-  <img src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Exemplo-entrada%20e%20sai%CC%81da.png" alt="Exemplo de Entrada e Saída" width="70%"> 
-</p>
-<p align="center">
-  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Me%CC%81tricas%20de%20Desempenho.png" alt="Métricas de Desempenho">
-</p>
-
-### [**COVID19-Global-Analytics**](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
-
-- **Descrição:** Este projeto tem como objetivo realizar análise global da evolução dos casos de COVID-19, correlacionando políticas públicas, como lockdowns e vacinação, com dados da Our World in Data. 
-- **Tecnologias utilizadas:** Python, Pandas, Matplotlib & Seaborn
-- [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
-- Alguns resultados obtidos e validação do modelo;
-<p align="center"> 
-  <img src="https://github.com/giuliabugatti09/COVID19-Global-Analytics/blob/main/images/paises_mais_casos_covid.png" alt="Países com mais caso de COVID-19" width="70%"> 
-</p>
-<p align="center">
-  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/COVID19-Global-Analytics/blob/main/images/porcentagem_doses_vacina.png" alt="Porcentagem das doses de vacina">
-</p>
-
-### [**bank_credit_card_churn_predicition**](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
-
-- **Descrição:** Este projeto busca desenvolver um modelo preditivo para antecipar o risco de cancelamento de cartões de crédito, utilizando Machine Learning para identificar padrões nos dados históricos dos clientes. 
-- **Tecnologias utilizadas:** Python, NTLK,  Scikit-Learn,  Pandas, Matplotlib & Seaborn, Ploty, XGBoost
-- [Clique aqui para conferir o projeto completo](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
-- Alguns resultados obtidos e validação do modelo;
-<p align="center"> 
-  <img src="https://github.com/giuliabugatti09/bank_credit_card_churn_predicition/blob/main/images/Proporc%CC%A7a%CC%83o_cancelamento.png" alt= "Proporção de cancelamento"width="70%"> 
-</p>
-<p align="center">
-  <img width="70%" height="70%" src="https://github.com/giuliabugatti09/bank_credit_card_churn_predicition/blob/main/images/taxa_cancelamento.png" alt="Taxa de cancelamento">
-</p>
+---
 
 # Experiência Profissional
 ## Bradesco
@@ -90,8 +81,9 @@ A grade curricular abrange tópicos como Machine Learning, Deep Learning, Proces
 
 Os alunos aprendem a desenvolver sistemas cognitivos, aplicar técnicas de aprendizado de máquina e criar soluções inovadoras, como chatbots e dispositivos autônomos.
 
-## Contato
-- **Email**: giuliabugatti02@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/
-- **GitHub**: www.github.com/giuliabugatti09
+- Contato: [giuliabugatti09@gmail.com](mailto:giuliabugatti09@gmail.com)
+- [Meu perfil no GitHub](https://github.com/giuliabugatti09)
+
+Sinta-se à vontade para explorar os repositórios e entrar em contato!
 
