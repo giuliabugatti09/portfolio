@@ -120,6 +120,3 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/)
 💻 [GitHub](https://github.com/giuliabugatti09)
 
-
-Quer que eu faça isso?
-
